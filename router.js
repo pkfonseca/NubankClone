@@ -29,4 +29,4 @@ class StackRouter extends Component{
     }
 }
 
-export default Router
+export default Router;
